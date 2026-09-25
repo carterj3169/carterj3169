@@ -7,6 +7,7 @@ Welcome to the official developer & curation profile for [DikGames](https://dikg
 
 ### 🌐 Official Platforms & Catalog
 * **Official Website:** [DikGames](https://dikgames.online/)
+* **Gaming Portal:** [DikGames on itch.io](https://dikgamesonline.itch.io/)
 * **Complete Games Directory:** [Browse All Games](https://dikgames.online/all-adult-games/)
 * **Popular Tags & Genres:** [Explore All Tags](https://dikgames.online/all-tags/)
 * **PC Games:** [Windows PC Games](https://dikgames.online/all-adult-games/platform=windows)
