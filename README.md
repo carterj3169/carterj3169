@@ -11,6 +11,7 @@ Welcome to the official developer & curation profile for [DikGames](https://dikg
 * **Popular Tags & Genres:** [Explore All Tags](https://dikgames.online/all-tags/)
 * **PC Games:** [Windows PC Games](https://dikgames.online/all-adult-games/platform=windows)
 * **Mobile Games:** [Android APK Games](https://dikgames.online/all-adult-games/platform=android)
+* **Wikidata Knowledge Graph Entity:** [DikGames on Wikidata (Q125973587)](https://www.wikidata.org/wiki/Q125973587)
 
 ### ⚡ Direct Cloud Providers
 All games indexed on [DikGames](https://dikgames.online/) feature multi-redundant direct cloud mirrors (Mega.nz, Pixeldrain, GoFile, VikingFile) with zero wait times and 100% virus scanning.
