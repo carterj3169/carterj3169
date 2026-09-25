@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Carter 👋
 
-<!--
-**carterj3169/carterj3169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official developer & curation profile for [DikGames](https://dikgames.online/).
 
-Here are some ideas to get you started:
+## 🎮 About DikGames
+[DikGames](https://dikgames.online/) is a premier uncensored adult gaming network and 3D visual novels repository. We maintain high-speed cloud mirrors, touch-optimized Android APKs, and comprehensive save walkthroughs for hundreds of adult titles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Official Platforms & Catalog
+* **Official Website:** [DikGames](https://dikgames.online/)
+* **Complete Games Directory:** [Browse All Games](https://dikgames.online/all-adult-games/)
+* **Popular Tags & Genres:** [Explore All Tags](https://dikgames.online/all-tags/)
+* **PC Games:** [Windows PC Games](https://dikgames.online/all-adult-games/platform=windows)
+* **Mobile Games:** [Android APK Games](https://dikgames.online/all-adult-games/platform=android)
+
+### ⚡ Direct Cloud Providers
+All games indexed on [DikGames](https://dikgames.online/) feature multi-redundant direct cloud mirrors (Mega.nz, Pixeldrain, GoFile, VikingFile) with zero wait times and 100% virus scanning.
