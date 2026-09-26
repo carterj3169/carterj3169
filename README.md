@@ -7,14 +7,15 @@ Welcome to the official developer & curation profile for [DikGames](https://dikg
 
 ### 🌐 Official Platforms & Catalog
 * **Official Website:** [DikGames](https://dikgames.online/)
+* **PyPI Package:** [dikgames on PyPI](https://pypi.org/project/dikgames/)
+* **NPM Package:** [dikgames on npmjs](https://www.npmjs.com/package/dikgames)
 * **GitLab Organization:** [DikGames on GitLab](https://gitlab.com/dikgames)
 * **Gaming Portal:** [DikGames on itch.io](https://dikgamesonline.itch.io/)
+* **Wikidata Knowledge Graph Entity:** [DikGames on Wikidata (Q125973587)](https://www.wikidata.org/wiki/Q125973587)
 * **Complete Games Directory:** [Browse All Games](https://dikgames.online/all-adult-games/)
 * **Popular Tags & Genres:** [Explore All Tags](https://dikgames.online/all-tags/)
 * **PC Games:** [Windows PC Games](https://dikgames.online/all-adult-games/platform=windows)
 * **Mobile Games:** [Android APK Games](https://dikgames.online/all-adult-games/platform=android)
-* **Official NPM Package:** [dikgames on npmjs](https://www.npmjs.com/package/dikgames)
-* **Wikidata Knowledge Graph Entity:** [DikGames on Wikidata (Q125973587)](https://www.wikidata.org/wiki/Q125973587)
 
 ### ⚡ Direct Cloud Providers
 All games indexed on [DikGames](https://dikgames.online/) feature multi-redundant direct cloud mirrors (Mega.nz, Pixeldrain, GoFile, VikingFile) with zero wait times and 100% virus scanning.
