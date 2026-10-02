@@ -11,6 +11,7 @@ Welcome to the official developer & curation profile for [DikGames](https://dikg
 * **NPM Package:** [dikgames on npmjs](https://www.npmjs.com/package/dikgames)
 * **GitLab Organization:** [DikGames on GitLab](https://gitlab.com/dikgames)
 * **Gaming Portal:** [DikGames on itch.io](https://dikgamesonline.itch.io/)
+* **Harvard University Dataverse (.EDU):** [Harvard Dataverse (doi:10.7910/DVN/MKB1K2)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MKB1K2)
 * **Kaggle Research Dataset:** [Visual Novels & Interactive Fiction on Kaggle](https://www.kaggle.com/datasets/dikgames/visual-novels-metadata-2026)
 * **Kaggle Analysis Notebook:** [Interactive Fiction EDA & Engine Analysis](https://www.kaggle.com/code/dikgames/visual-novels-interactive-fiction-eda-engine/)
 * **Hugging Face Dataset:** [Visual Novels Metadata on Hugging Face](https://huggingface.co/datasets/dikgames/visual-novels-metadata)
