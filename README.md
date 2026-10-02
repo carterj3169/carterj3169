@@ -16,6 +16,7 @@ Welcome to the official developer & curation profile for [DikGames](https://dikg
 * **Kaggle Analysis Notebook:** [Interactive Fiction EDA & Engine Analysis](https://www.kaggle.com/code/dikgames/visual-novels-interactive-fiction-eda-engine/)
 * **Hugging Face Dataset:** [Visual Novels Metadata on Hugging Face](https://huggingface.co/datasets/dikgames/visual-novels-metadata)
 * **Curator Anthology Hub:** [Being a DIK Official Anthology](https://dikgames.online/c/dikgames/)
+* **ORCID Researcher Record:** [Juliana Pauline (0009-0003-5056-1615)](https://orcid.org/0009-0003-5056-1615)
 * **Wikidata Knowledge Graph Entity:** [DikGames on Wikidata (Q125973587)](https://www.wikidata.org/wiki/Q125973587)
 * **Complete Games Directory:** [Browse All Games](https://dikgames.online/all-adult-games/)
 * **Popular Tags & Genres:** [Explore All Tags](https://dikgames.online/all-tags/)
