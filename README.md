@@ -20,6 +20,7 @@ Welcome to the official developer & curation profile for [DikGames](https://dikg
 ### 🏛️ Open Research, Institutional Registries & DOI Metadata
 * **Harvard University Dataverse (.EDU DOI):** [doi:10.7910/DVN/MKB1K2](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MKB1K2)
 * **Open Science Framework (NSF .GOV Funded DOI):** [doi:10.17605/OSF.IO/HUPEM](https://osf.io/hupem)
+* **Software Heritage (UNESCO / Inria Permanent Archive):** [archive.softwareheritage.org](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/carterj3169/dikgames-archive)
 * **Academia.edu (.EDU Profile):** [Juliana Pauline on Academia.edu](https://independent.academia.edu/JulianaPauline)
 * **Academia.edu (.EDU Paper):** [Global Visual Novels Metadata Index (2020-2026)](https://www.academia.edu/176667659/Global_Visual_Novels_and_Interactive_Fiction_Metadata_Index_2020_2026_Longitudinal_Technical_Architecture_Version_Migration_and_Engine_Adoption)
 * **DataCite Commons Global Registry:** [doi.org/10.7910/dvn/mkb1k2](https://commons.datacite.org/doi.org/10.7910/dvn/mkb1k2)
